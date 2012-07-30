@@ -1,0 +1,27 @@
+[submodule "serial_node"]
+	path = serial_node
+	url = git@github.com:jarvisschultz/serial_node.git
+[submodule "robot_simulator"]
+	path = robot_simulator
+	url = git@github.com:jarvisschultz/robot_simulator.git
+[submodule "puppeteer_msgs"]
+	path = puppeteer_msgs
+	url = git@github.com:jarvisschultz/puppeteer_msgs.git
+[submodule "puppeteer_markers"]
+	path = puppeteer_markers
+	url = git@github.com:jarvisschultz/puppeteer_markers.git
+[submodule "puppeteer_control"]
+	path = puppeteer_control
+	url = git@github.com:jarvisschultz/puppeteer_control.git
+[submodule "objecttracker_nu"]
+	path = objecttracker_nu
+	url = git@github.com:jarvisschultz/objecttracker_nu.git
+[submodule "keyboard_node"]
+	path = keyboard_node
+	url = git@github.com:jarvisschultz/keyboard_node.git
+[submodule "filtering_node"]
+	path = filtering_node
+	url = git@github.com:jarvisschultz/filtering_node.git
+[submodule "estimator_node"]
+	path = estimator_node
+	url = git@github.com:jarvisschultz/estimator_node.git
