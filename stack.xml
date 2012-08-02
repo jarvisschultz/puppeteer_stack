@@ -1,0 +1,24 @@
+<package>
+  <description brief="control software for robotic marionette project">
+    This stack contains code for the robotic marionette project at the
+    LIMS lab at Northwestern University.  Packages include, for example,
+    ekf filtering for robot nodes, dynamic and kinematic system
+    simulators, serial communication nodes, and control nodes.
+  </description>
+  <author>Jarvis Schultz, John Ware</author>
+  <license>GPLv2</license>
+  <review status="unreviewed" notes=""/>
+  <url>https://github.com/jarvisschultz/puppeteer_stack</url>
+  <depend stack="ros_comm"/>
+  <depend stack="bfl"/>
+  <depend stack="eigen"/>
+  <depend stack="joystick_drivers"/>
+  <depend stack="common_msgs"/>
+  <depend stack="nodelet_core"/> 
+  <depend stack="openni_camera"/>
+  <depend stack="openni_launch"/>
+  <depend stack="perception_pcl"/>
+  <depend stack="visualization"/>
+</package>
+
+
