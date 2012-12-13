@@ -2,7 +2,7 @@ puppeteer_stack
 ===============
 
 This is a git "supermodule" that contains all of the ROS packages used
-in the Norhtwestern University LIMS lab's marionette project.  It is
+in the Northwestern University NxR lab's marionette project.  It is
 provided simply as a convenience to those wishing to gain access to
 all of the individual repositories.  You can find more about the
 project in general at [this page][lims]
@@ -50,7 +50,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-[lims]: http://lims.mech.northwestern.edu/RESEARCH/current_projects/Puppets/Marionette_homepage.html
+[lims]: http://nxr.northwestern.edu/research/scalable-algorithms-physical-systems/marionettes
 [subs]: http://www.arlocarreon.com/blog/git/git-repo-inside-a-git-repo/
 [https]: https://help.github.com/articles/which-remote-url-should-i-use
 [pass]: https://help.github.com/articles/set-up-git#password-caching
